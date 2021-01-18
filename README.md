@@ -4,7 +4,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. 
 
 
-# Programming Assignments
+## Programming Assignments
 
 ## Course 1: Neural Networks and Deep Learning
 
@@ -69,7 +69,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 - Build Face Recognition model for the Happy House. Implement Art Generation with Neural Style Transfer.
   
 
-##Course 5: Sequence Models
+## Course 5: Sequence Models
 
   Objectives:
   + Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
@@ -88,12 +88,13 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 
+
 # Natural Language Processing Specialization
 
 This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
 
 
-# Programming Assignments
+## Programming Assignments
 
 ## Course 1: Natural Language Processing with Classification and Vector Spaces
 
