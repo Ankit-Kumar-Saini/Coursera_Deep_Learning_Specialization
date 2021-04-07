@@ -1,8 +1,30 @@
 # Deep Learning Specialization
 
-Instructor: [Andrew Ng](http://www.andrewng.org/)
-In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. 
+### Table of Contents
+1. [My Learnings from the Specialization](#Introduction)
+2. [Instructions for using the files](#Instruction)
+3. [Folder Descriptions](#Description)
+4. [Results from programming assignments](#Results)
+5. [Disclaimer](#Disc)
 
+## My Learnings from the Specialization<a name="Introduction"></a>
+Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/)
+In this five course series, I learned about the foundations of Deep Learning by implementing vectorized neural networks (MLP, CNN, RNN, LSTM) and optimization algorithms (SGD, RMSProp, Adam) from scratch in Python, building and training deep neural networks in TensorFlow and Keras, identifying key parameters in network architecture for hyperparameter tuning.
+
+I learned about the best practices to train and develop test sets and analyzed bias/variance for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used transfer learning for image classification tasks.
+
+I learned to build CNN models (YOLO for object detection, Siamese network for face verification and face recognition) for visual detection and recognition tasks and neural style transfer to generate art. I learned about RNNs, GRUs, and LSTMs, applied RNNs to character-level language modeling, Seq2seq model for Neural Machine Translation with attention. 
+
+## Instructions for using the files<a name="Instruction"></a>
+This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-IN&utm_content=17-DeepLearning-IN&campaignid=6495527979&adgroupid=119719595459&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507236116448&hide_mobile_promo&gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_0yOwK5qCBYIq8Z3X649e_0megqAlF6r5vyg5Q2Wnfr67g4TCKnU_AaAn4aEALw_wcB).
+Clone the repository to use.
+
+## Folder Descriptions<a name="Description"></a>
+1. [C1 - Neural Networks and Deep Learning](#Course1)
+2. [C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](#Course2)
+3. [C3 - Structuring Machine Learning Projects](#Course3)
+4. [C4 - Convolutional Neural Networks](#Course4)
+5. [C5 - Sequence Models](#Course5)
 
 ## Programming Assignments
 
@@ -89,68 +111,3 @@ In five courses, you will learn the foundations of Deep Learning, understand how
 
 
 
-# Natural Language Processing Specialization
-
-This Specialization is designed and taught by two experts in NLP, machine learning, and deep learning. Younes Bensouda Mourri is an Instructor of AI at Stanford University who also helped build the Deep Learning Specialization. Łukasz Kaiser is a Staff Research Scientist at Google Brain and the co-author of Tensorflow, the Tensor2Tensor and Trax libraries, and the Transformer paper.
-
-
-## Programming Assignments
-
-## Course 1: Natural Language Processing with Classification and Vector Spaces
-
-**Week 1: Logistic Regression for Sentiment Analysis of Tweets**
-- Classify positive or negative sentiment in tweets using Logistic Regression
-
-**Week 2: Naïve Bayes for Sentiment Analysis of Tweets**
-- Classify positive or negative sentiment in tweets using more advanced model
-
-**Week 3: Vector Space Models**
-- Vector space models capture semantic meaning and relationships between words. Use them to discover relationships between words, then visualize their relationships in two dimensions using PCA (dimensionality reduction technique).
-
-**Week 4: Word Embeddings and Locality Sensitive Hashing for Machine Translation**
-- Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
-
-
-## Course 2: Natural Language Processing with Probabilistic Models
-
-**Week 1: Auto-correct using Minimum Edit Distance**
-- Create a simple auto-correct algorithm using minimum edit distance and dynamic programming
-
-**Week 2: Part-of-Speech (POS) Tagging**
-- Learn about Markov chains and Hidden Markov models, then use them to create part-of-speech tags for a Wall Street Journal text corpus. Apply the Viterbi algorithm for POS tagging, which is important for computational linguistics
-
-**Week 3: N-gram Language Models**
-- Learn about how N-gram language models work by calculating sequence probabilities, then build your own autocomplete language model using a text corpus from Twitter (similar models are used for translation, determining the author of a text, and speech recognition)
-
-**Week 4: Word2Vec and Stochastic Gradient Descent**
-- Learn about how word embeddings carry the semantic meaning of words, which makes them much more powerful for NLP tasks, then build your own Continuous bag-of-words model that uses a neural network to compute word embeddings from Shakespeare text. 
-
-
-## Course 3: Natural Language Processing with Sequence Models
-
-**Week 1: Neural Networks for Sentiment Analysis**
-- Train a neural network with GLoVe word embeddings to perform sentiment analysis on tweets
-
-**Week 2: Recurrent Neural Networks for Language Modeling**
-- Learn about the limitations of traditional language models and see how RNNs and GRUs use sequential data for text prediction. Build your own next-word generator using a simple RNN on Shakespeare text data.
-
-**Week 3: LSTMs and Named Entity Recognition**
-- Learn about how long short-term memory units (LSTMs) solve the vanishing gradient problem, and how Named Entity Recognition systems quickly extract important information from text. Build your own Named Entity Recognition system using an LSTM and data from Kaggle.
-
-**Week 4: Siamese Networks**
-- Learn about Siamese networks, a special type of neural network made of two identical networks that are eventually merged together. Build your own Siamese network that identifies question duplicates in a dataset from Quora.
-
-
-## Course 4: Natural Language Processing with Attention Models
-
-**Week 1: Neural Machine Translation with Attention**
-- Discover some of the shortcomings of a traditional seq2seq model and how to solve for them by adding an attention mechanism. Build a Neural Machine Translation model with Attention that translates English sentences into German.
-
-**Week 2: Text Summarization with Transformer Models**
-- Compare RNNs and other sequential models to the more modern Transformer architecture. Build a transformer model that generates text summaries.
-
-**Week 3: Question-Answering with Transformer Models**
-- Explore transfer learning with state-of-the-art models like T5 and BERT, then build a model that can perform question answering task.
-
-**Week 4: Chatbots with a Reformer Model**
-- Examine some unique challenges Transformer models face and their solutions, then build a chatbot using a Reformer model.
