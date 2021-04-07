@@ -21,20 +21,19 @@ This repository contains all my work for this specialization. All the code base,
 Clone the repository to use.
 
 ## Course Descriptions<a name="Description"></a>
-1. [C1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning).
-**Course Objective:**
-This course focuses on vectorized implementation of neural networks in Python.
-	**Week 1: Introduction to deep learning**
-		- Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
+1. [C1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)
+- **Course Objective:** This course focuses on vectorized implementation of neural networks in Python.
+   - **Week 1: Introduction to deep learning**
+      - Be able to explain the major trends driving the rise of deep learning, and understand where and how it is applied today.
 
-	**Week 2: Neural Networks Basics**
-		- Python Basics with Numpy and Logistic Regression with a Neural Network mindset.
+   - **Week 2: Neural Networks Basics**
+      - Python Basics with Numpy and Logistic Regression with a Neural Network mindset.
 
-	**Week 3: Shallow neural networks**
-		- Understand the key parameters in a neural network's architecture. Planar data classification with a hidden layer
+   - **Week 3: Shallow neural networks**
+      - Understand the key parameters in a neural network's architecture. Planar data classification with a hidden layer
 
-	**Week 4: Deep Neural Networks**
-		- Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
+   - **Week 4: Deep Neural Networks**
+      - Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
 
 2. [C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization).
 **Course Objective:**
