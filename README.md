@@ -8,23 +8,24 @@
 5. [Disclaimer](#Disc)
 
 ## My Learnings from the Specialization<a name="Introduction"></a>
-Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/)
-In this five course series, I learned about the foundations of Deep Learning by implementing vectorized neural networks (MLP, CNN, RNN, LSTM) and optimization algorithms (SGD, RMSProp, Adam) from scratch in Python, building and training deep neural networks in TensorFlow and Keras, identifying key parameters in network architecture for hyperparameter tuning.
+Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/).
 
-I learned about the best practices to train and develop test sets and analyzed bias/variance for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used transfer learning for image classification tasks.
+In this five course series, I learned about the foundations of Deep Learning by implementing vectorized neural networks *(MLP, CNN, RNN, LSTM)* and optimization algorithms *(SGD, RMSprop, Adam)* from scratch in Python, building and training deep neural networks in *TensorFlow and Keras*, identifying key parameters in network architecture for hyperparameter tuning.
 
-I learned to build CNN models (YOLO for object detection, Siamese network for face verification and face recognition) for visual detection and recognition tasks and neural style transfer to generate art. I learned about RNNs, GRUs, and LSTMs, applied RNNs to character-level language modeling, Seq2seq model for Neural Machine Translation with attention. 
+I learned about the best practices to train and develop test sets and analyzed bias/variance for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used *transfer learning for image classification tasks*.
+
+I learned to build CNN models *(YOLO for object detection, Siamese network for face verification and face recognition)* for visual detection and recognition tasks and neural style transfer to generate art. I learned about RNNs, GRUs, and LSTMs, applied RNNs to character-level language modeling, *Seq2seq model for Neural Machine Translation with attention*. 
 
 ## Instructions for using the files<a name="Instruction"></a>
-This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-IN&utm_content=17-DeepLearning-IN&campaignid=6495527979&adgroupid=119719595459&device=c&keyword=&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507236116448&hide_mobile_promo&gclid=Cj0KCQjwsLWDBhCmARIsAPSL3_0yOwK5qCBYIq8Z3X649e_0megqAlF6r5vyg5Q2Wnfr67g4TCKnU_AaAn4aEALw_wcB).
+This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=49070439496&device=c&keyword=neural%20network%20for%20machine%20learning&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429113789&hide_mobile_promo&gclid=EAIaIQobChMI5_CtgI_t7wIVPObjBx0xuwp6EAAYASAAEgKLhvD_BwE).
 Clone the repository to use.
 
 ## Folder Descriptions<a name="Description"></a>
-1. [C1 - Neural Networks and Deep Learning](#Course1)
-2. [C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](#Course2)
-3. [C3 - Structuring Machine Learning Projects](#Course3)
-4. [C4 - Convolutional Neural Networks](#Course4)
-5. [C5 - Sequence Models](#Course5)
+1. [C1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)
+2. [C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)
+3. [C3 - Structuring Machine Learning Projects]()
+4. [C4 - Convolutional Neural Networks](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks)
+5. [C5 - Sequence Models](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C5%20-%20Sequence%20Models)
 
 ## Programming Assignments
 
