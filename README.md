@@ -21,7 +21,7 @@ This repository contains all my work for this specialization. All the code base,
 
 
 ## Weekly Learning Objective<a name="Description"></a>
-1. **[C1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)**
+1. **[Course 1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)**
 
 - **Course Objective:** This course focuses on vectorized implementation of neural networks in Python.
 
@@ -37,7 +37,7 @@ This repository contains all my work for this specialization. All the code base,
    - **Week 4: Deep Neural Networks**
       - Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
 
-2. **[C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)**
+2. **[Course 2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization)**
 
 - **Course Objective:** This course teaches the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results. 
 
@@ -51,13 +51,13 @@ This repository contains all my work for this specialization. All the code base,
       - Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance. 
       - Implement a neural network in TensorFlow.
 
-3. **[C3 - Structuring Machine Learning Projects](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C3%20-%20Structuring%20Machine%20Learning%20Projects)**
+3. **[Course 3 - Structuring Machine Learning Projects](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C3%20-%20Structuring%20Machine%20Learning%20Projects)**
 
 - **Course Objective:** This course focuses on how to diagnose errors in a machine learning system, be able to prioritize the most promising directions for reducing error, understand complex ML settings, such as mismatched training/test sets and comparing to and/or surpassing human-level performance and how to apply end-to-end learning, transfer learning, and multi-task learning. 
 
    - There is no Programming Assignment for this course. But this course comes with very interesting case study quizzes.
 
-4. **[C4 - Convolutional Neural Networks](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks)**
+4. **[Course 4 - Convolutional Neural Networks](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks)**
 
 - **Course Objective:** This course focuses on how to build a convolutional neural network, including recent variations such as residual networks, how to apply convolutional networks to visual detection and recognition tasks and use neural style transfer to generate art.
 
@@ -74,7 +74,7 @@ This repository contains all my work for this specialization. All the code base,
       - Discover how CNNs can be applied to multiple fields, including art generation and face recognition. 
       - Build Face Recognition model for the Happy House. Implement Art Generation with Neural Style Transfer.
 
-5. **[C5 - Sequence Models](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C5%20-%20Sequence%20Models)**
+5. **[Course 5 - Sequence Models](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C5%20-%20Sequence%20Models)**
 
 - **Course Objective:** This course focuses on how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs, able to apply sequence models to natural language problems, including text synthesis and sequence models to audio applications, including speech recognition and music synthesis.
 
