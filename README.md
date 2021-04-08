@@ -2,8 +2,8 @@
 
 ### Table of Contents
 1. [My Learnings from the Specialization](#Introduction)
-2. [Instructions for using the files](#Instruction)
-3. [Course Descriptions](#Description)
+2. [Instructions to use the repository](#Instruction)
+3. [Weekly Learning Objective](#Description)
 4. [Disclaimer](#Disc)
 
 ## My Learnings from the Specialization<a name="Introduction"></a>
@@ -15,11 +15,12 @@ I learned about the best practices to train and develop test sets and analyzed b
 
 I learned to build CNN models **(YOLO for object detection, Siamese network for face verification and face recognition)** for visual detection and recognition tasks and neural style transfer to generate art. I learned about RNNs, GRUs, and LSTMs, applied RNNs to character-level language modeling, **Seq2seq model for Neural Machine Translation with attention**. 
 
-## Instructions for using the files<a name="Instruction"></a>
+## Instructions to use the repository<a name="Instruction"></a>
+Using this repository is straight forward. Clone this repository to use.
 This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=49070439496&device=c&keyword=neural%20network%20for%20machine%20learning&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429113789&hide_mobile_promo&gclid=EAIaIQobChMI5_CtgI_t7wIVPObjBx0xuwp6EAAYASAAEgKLhvD_BwE).
-Clone the repository to use.
 
-## Course Descriptions<a name="Description"></a>
+
+## Weekly Learning Objective<a name="Description"></a>
 1. [C1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)
 
 - **Course Objective:** This course focuses on vectorized implementation of neural networks in Python.
