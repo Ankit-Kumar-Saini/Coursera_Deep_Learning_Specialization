@@ -4,7 +4,8 @@
 1. [My Learnings from the Specialization](#Learning)
 2. [Instructions to use the repository](#Instruction)
 3. [Weekly Learning Objective](#Description)
-4. [Disclaimer](#Disc)
+4. [Results](#res)
+5. [Disclaimer](#Disc)
 
 ## My Learnings from the Specialization<a name="Learning"></a>
 Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/).
@@ -18,7 +19,6 @@ I learned to build CNN models **(YOLO for object detection, Siamese network for 
 ## Instructions to use the repository<a name="Instruction"></a>
 Using this repository is straight forward. Clone this repository to use.
 This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=49070439496&device=c&keyword=neural%20network%20for%20machine%20learning&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429113789&hide_mobile_promo&gclid=EAIaIQobChMI5_CtgI_t7wIVPObjBx0xuwp6EAAYASAAEgKLhvD_BwE).
-
 
 ## Weekly Learning Objective<a name="Description"></a>
 1. **[Course 1 - Neural Networks and Deep Learning](https://github.com/Ankit-Kumar-Saini/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)**
@@ -87,7 +87,17 @@ This repository contains all my work for this specialization. All the code base,
    - **Week 3 - Sequence models & Attention mechanism**
       - Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs.
       - Implement Neural machine translation with attention and Trigger word detection.
- 
+
+## Results<a name="res"></a>
+`Some results from the programming assignments of this specialization`
+
+- Image classification using Logistic Regression from scratch in Python
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/logistic_regression.PNG) 
+
+- Accuracy vs number of hidden layers in MLP for planar data set
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layers.PNG) 
+
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layer_2.PNG) 
 
 ## Disclaimer<a name="Disc"></a>
 The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass programming assignments. 
