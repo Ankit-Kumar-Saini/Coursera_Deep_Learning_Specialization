@@ -1,12 +1,12 @@
 # Deep Learning Specialization
 
 ### Table of Contents
-1. [My Learnings from the Specialization](#Introduction)
+1. [My Learnings from the Specialization](#Learning)
 2. [Instructions to use the repository](#Instruction)
 3. [Weekly Learning Objective](#Description)
 4. [Disclaimer](#Disc)
 
-## My Learnings from the Specialization<a name="Introduction"></a>
+## My Learnings from the Specialization<a name="Learning"></a>
 Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/).
 
 In this five course series, I learned about the foundations of Deep Learning by implementing vectorized neural networks **(MLP, CNN, RNN, LSTM)** and optimization algorithms **(SGD, RMSprop, Adam)** from scratch in Python, building and training deep neural networks in **TensorFlow and Keras**, identifying key parameters in network architecture for hyperparameter tuning.
