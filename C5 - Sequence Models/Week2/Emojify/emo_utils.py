@@ -87,6 +87,7 @@ def plot_confusion_matrix(y_actu, y_pred, title='Confusion matrix', cmap=plt.cm.
     plt.xlabel(df_confusion.columns.name)
     
     
+    
 def predict(X, Y, W, b, word_to_vec_map):
     """
     Given X (sentences) and Y (emoji indices), predict emojis and compute the accuracy of your model over the given set.
@@ -100,6 +101,9 @@ def predict(X, Y, W, b, word_to_vec_map):
     """
     m = X.shape[0]
     pred = np.zeros((m, 1))
+    any_word = list(word_to_vec_map.keys())[0]
+    # number of classes  
+    n_h = word_to_vec_map[any_word].shape[0] 
     
     for j in range(m):                       # Loop over training examples
         
@@ -107,10 +111,15 @@ def predict(X, Y, W, b, word_to_vec_map):
         words = X[j].lower().split()
         
         # Average words' vectors
-        avg = np.zeros((50,))
+        avg = np.zeros((n_h,))
+        count = 0
         for w in words:
-            avg += word_to_vec_map[w]
-        avg = avg/len(words)
+            if w in word_to_vec_map:
+                avg += word_to_vec_map[w]
+                count += 1
+        
+        if count > 0:
+            avg = avg / count
 
         # Forward propagation
         Z = np.dot(W, avg) + b
