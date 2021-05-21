@@ -97,6 +97,12 @@ This repository contains all my work for this specialization. All the code base,
 ## Results<a name="res"></a>
 `Some results from the programming assignments of this specialization`
 
+- YOLO object detection
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/object_detection.PNG) 
+
+- Neural style transfer
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/neural_style_transfer.PNG)
+
 - Image classification using Logistic Regression from scratch in Python
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/logistic_reg.PNG) 
 
@@ -104,13 +110,6 @@ This repository contains all my work for this specialization. All the code base,
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layers.PNG) 
 
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layer_2.PNG) 
-
-
-- YOLO object detection
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/object_detection.PNG) 
-
-- Neural style transfer
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/neural_style_transfer.PNG)
 
 ## Disclaimer<a name="Disc"></a>
 The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass programming assignments. 
