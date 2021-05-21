@@ -1,4 +1,5 @@
 # Deep Learning Specialization
+Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/)
 
 ### Table of Contents
 1. [My Learnings from the Specialization](#Learning)
@@ -8,13 +9,12 @@
 5. [Disclaimer](#Disc)
 
 ## My Learnings from the Specialization<a name="Learning"></a>
-Instructor of the specialization: [Andrew Ng](http://www.andrewng.org/).
 
-In this five course series, I learned about the foundations of Deep Learning by implementing vectorized neural networks **(MLP, CNN, RNN, LSTM)** and optimization algorithms **(SGD, RMSprop, Adam)** from scratch in Python, building and training deep neural networks in **TensorFlow and Keras**, identifying key parameters in network architecture for hyperparameter tuning.
+In this five course series, I learned about the foundations of `Deep Learning` by implementing vectorized **neural networks (MLP, CNN, RNN, LSTM) and optimization algorithms (SGD, RMSprop, Adam)** from scratch in Python, building and training deep neural networks in **TensorFlow and Keras** and identifying key parameters in network architecture for hyperparameter tuning.
 
-I learned about the best practices to train and develop test sets and analyzed bias/variance for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used **transfer learning for image classification tasks**.
+I learned about the best practices to train and develop test sets and analyzed `bias/variance` for building DL applications, diagnosed and used strategies for reducing errors in ML systems, understand complex ML settings and used **transfer learning for image classification tasks**.
 
-I learned to build CNN models **(YOLO for object detection, Siamese network for face verification and face recognition)** for visual detection and recognition tasks and neural style transfer to generate art. I learned about RNNs, GRUs, and LSTMs, applied RNNs to character-level language modeling, **Seq2seq model for Neural Machine Translation with attention**. 
+I learned to build and train CNN models **(YOLO for object detection, U-Net for image segmentation, FaceNet for face verification and face recognition)** for visual detection and recognition tasks and to generate art work through neural style transfer by using a pre-trained VGG-19 model. I learned about RNNs, GRUs, LSTMs and transformers and applied them to various NLP/sequence tasks. I used RNNs to built a character-level language model to generate dinosaur names, **LSTMs to built a Seq2seq model for Neural Machine Translation with attention and trigger word detection model**. I used pre-trained transformer models for question-answering and named-entity-recognition tasks.
 
 ## Instructions to use the repository<a name="Instruction"></a>
 Using this repository is straight forward. Clone this repository to use.
@@ -66,9 +66,11 @@ This repository contains all my work for this specialization. All the code base,
 
    - **Week 2 - Deep convolutional models: case studies**
       - Build Residual Network in Keras.
+      - Transfer Learning with MobileNet.
 
    - **Week 3 - Object detection**
       - Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection. Autonomous driving application - Car detection.
+      - Image segmentation with U-Net.
 
    - **Week 4 - Special applications: Face recognition & Neural style transfer**
       - Discover how CNNs can be applied to multiple fields, including art generation and face recognition. 
@@ -88,16 +90,26 @@ This repository contains all my work for this specialization. All the code base,
       - Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should focus its attention given a sequence of inputs.
       - Implement Neural machine translation with attention and Trigger word detection.
 
+  - **Week 4 - Transformer Network**
+      - Use HuggingFace tokenizers and transformers to perform Named Entity Recognition and Question Answering
+
+
 ## Results<a name="res"></a>
 `Some results from the programming assignments of this specialization`
 
 - Image classification using Logistic Regression from scratch in Python
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/logistic_regression.PNG) 
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/logistic_reg.PNG) 
 
 - Accuracy vs number of hidden layers in MLP for planar data set
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layers.PNG) 
 
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/hidden_layer_2.PNG) 
+
+- YOLO object detection
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/object_detection.PNG) 
+
+- Neural style transfer
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/neural_style_transfer.PNG)
 
 ## Disclaimer<a name="Disc"></a>
 The solutions uploaded in this repository are only for reference when you got stuck somewhere. Please don't use these solutions to pass programming assignments. 
