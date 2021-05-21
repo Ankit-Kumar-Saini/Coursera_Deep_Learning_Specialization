@@ -97,11 +97,10 @@ This repository contains all my work for this specialization. All the code base,
 ## Results<a name="res"></a>
 `Some results from the programming assignments of this specialization`
 
+![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/object_detection.PNG)
+
 - Neural style transfer
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/neural_style_transfer.PNG)
-
-- YOLO object detection
-![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/object_detection.PNG)
 
 - Image classification using Logistic Regression from scratch in Python
 ![alt text](https://github.com/Ankit-Kumar-Saini/Coursera_Deep_Learning_Specialization/blob/main/Results/logistic_reg.PNG) 
